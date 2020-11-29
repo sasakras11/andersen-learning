@@ -1,0 +1,9 @@
+це поведінковий паттерн який дозволяє добавляти в программу нові операці
+не міняючи класи об'єктів
+
+використовується в
+javax.lang.model.element.AnnotationValue/AnnotationValueVisitor,
+javax.lang.model.element.Element/ElementVisitor
+javax.lang.model.type.TypeMirror/TypeVisitor
+javax.nio.file.FileVisitor/SimpleFileVisitor
+javax.faces.component.visit.VisitContext/VisitCallback
