@@ -1,4 +1,4 @@
-package learning.patterns.creators.state;
+package learning.patterns.behavioral.state;
 
 public interface CurrentState {
     public void doAction();

@@ -1,4 +1,4 @@
-package learning.patterns.creators.strategy;
+package learning.patterns.behavioral.strategy;
 
 public class TestStrategyPattern {
     public static void main(String[] args) {

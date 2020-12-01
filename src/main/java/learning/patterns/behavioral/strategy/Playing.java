@@ -1,4 +1,4 @@
-package learning.patterns.creators.strategy;
+package learning.patterns.behavioral.strategy;
 
 public class Playing implements Action {
     @Override
