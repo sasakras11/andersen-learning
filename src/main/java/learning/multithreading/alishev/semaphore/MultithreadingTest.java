@@ -1,6 +1,4 @@
-package learning.multithreading.semaphore;
-
-import learning.multithreading.semaphore.Philosopher;
+package learning.multithreading.alishev.semaphore;
 
 import java.util.concurrent.Semaphore;
 

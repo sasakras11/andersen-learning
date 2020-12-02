@@ -1,4 +1,4 @@
-package learning.multithreading.notifyWait;
+package learning.multithreading.alishev.notifyWait;
 
 public class Notifier implements Runnable{
     private Message msg;

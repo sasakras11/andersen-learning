@@ -1,4 +1,4 @@
-package learning.multithreading.volatile_keywoard;
+package learning.multithreading.alishev.volatile_keywoard;
 
 
 import java.util.Scanner;

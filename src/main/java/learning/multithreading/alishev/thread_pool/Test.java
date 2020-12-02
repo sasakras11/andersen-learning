@@ -1,4 +1,4 @@
-package learning.multithreading.thread_pool;
+package learning.multithreading.alishev.thread_pool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
